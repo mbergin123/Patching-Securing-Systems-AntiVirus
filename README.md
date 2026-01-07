@@ -56,7 +56,7 @@ use exploit/windows/smb/ms09_050_smb2_negotiate_func_index
 set RHOST 192.168.1.10  
 set LHOST 192.168.1.101  
 
-![Exploit Configuration](images/set_Rhost_192.png)
+![Exploit Configuration](images/setting_Rhost_192.png)
 
 ---
 
@@ -99,7 +99,7 @@ Simple TCP/IP Services
 ![TCP Services Disabled](images/TCP_IP_Services.png)
 
 Telnet Service  
-![Telnet Disabled](images/Telnet_Prop.png)
+![Telnet Disabled](images/Telnet_prop.png)
 
 ---
 
@@ -115,20 +115,20 @@ ECHO
 ![ECHO Removed](images/echo_rule.png)
 
 FTP Server Exception  
-![FTP Exception Disabled](images/unchecked_ftp.png)
+![FTP Exception Disabled](images/uncheck_ftp.png)
 
 QOTD  
 ![QOTD Removed](images/QOTD_rule.png)
 
 Telnet Exception  
-![Telnet Exception Disabled](images/unchecked_tel.png)
+![Telnet Exception Disabled](images/uncheck_tel.png)
 
 ---
 
 ## 🔧 Launching Firewall Configuration
 firewall.cpl  
 
-![Firewall Console](images/firewall_cpl.png)
+![Firewall Console](images/Firewall_cpl.png)
 
 ---
 
